@@ -1,0 +1,10 @@
+.groceryItem {
+    background-color: #f8f8f8;
+    border: 2px solid #eee;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 40px;
+    padding-right: 40px;
+    width: 100%;
+}

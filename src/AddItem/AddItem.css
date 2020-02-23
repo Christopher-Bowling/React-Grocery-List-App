@@ -1,0 +1,10 @@
+#addItem {
+    margin: 0;
+    background-color: rgba(0,0,0, .75);
+    color: white;
+    width: 100%;
+}
+
+#addItem:hover {
+    background-color: rgba(0,0,0, .70)
+}
